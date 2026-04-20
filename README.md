@@ -1,8 +1,8 @@
-# 🎓 Faculdade Luciano Feijão — Landing Page
+# Faculdade Luciano Feijão — Landing Page
 
-Landing page desenvolvida em **Vue 3 + Vite + JavaScript** fiel ao design Figma.
+Landing page desenvolvida em **Vue 3 + Vite + JavaScript**.
 
-## 🚀 Como rodar
+## Como rodar
 
 ### Pré-requisitos
 - Node.js 18+
@@ -24,7 +24,7 @@ npm run build
 npm run preview
 ```
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 flf-landing/
@@ -36,16 +36,18 @@ flf-landing/
     ├── style.css
     ├── App.vue
     └── components/
-        ├── NavBar.vue          # Navbar fixa com busca e redes sociais
-        ├── HeroSection.vue     # Hero com chamada "Agora é SUA VEZ!"
-        ├── CoursesSection.vue  # Cursos Presenciais e EAD com carousel
-        ├── ActivitiesSection.vue # Atividades recentes com galeria
-        ├── VideoSection.vue    # Seção de vídeos com play interativo
-        ├── WhyChooseSection.vue # Diferenciais da FLF
-        └── FooterSection.vue   # Footer com formulário de contato
+        ├── FooterSite.vue     
+        ├── HeroSection.vue
+        ├── NavBar.vue
+        ├── SectionContato.vue
+        ├── SectionCursos.vue
+        ├── SectionEventos.vue
+        ├── SectionFies.vue
+        ├── SectionSobre.vue    
+        └── SectionVideo.vue
 ```
 
-## 🎨 Tecnologias
+## Tecnologias
 
 - **Vue 3** (Composition/Options API)
 - **Vite** (bundler)
@@ -54,7 +56,7 @@ flf-landing/
 - **Font Awesome 6** para ícones
 - **Google Fonts** — Montserrat + Nunito
 
-## 🎨 Paleta de Cores
+## Paleta de Cores
 
 | Variável | Valor | Uso |
 |---|---|---|
