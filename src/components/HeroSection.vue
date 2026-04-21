@@ -199,5 +199,6 @@ export default {
   .hero__imagem { margin: 0 auto; }
   .hero__mec { right: 0; top: 100px; }
   .hero__deco--azul { opacity: 0.3; }
+  .hero__modelo { height: clamp(420px, 50vh, 550px); }
 }
 </style>

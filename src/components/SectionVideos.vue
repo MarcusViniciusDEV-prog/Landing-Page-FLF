@@ -68,7 +68,7 @@ export default {
         {
           titulo: 'Colação de Grau 2025.1',
           cor: 'linear-gradient(135deg, #0d2d7a, #1a3fa8)',
-          url: 'https://www.youtube.com/watch?v=5nqj8sQHkLc'
+          url: 'https://youtu.be/NpDTUQn7So0?si=rc0u4q_s7W3F1ek3'
         }
       ]
     }
