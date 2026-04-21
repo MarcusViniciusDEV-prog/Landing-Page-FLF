@@ -4,7 +4,7 @@
 
     <div class="hero__grid">
       <div class="hero__conteudo">
-        <div class="hero__badge">✦ PROCESSO SELETIVO 2026.1</div>
+        <div class="hero__badge">✦ PROCESSO SELETIVO 2026.2</div>
 
         <h1 class="hero__titulo">
           Agora é<br />
@@ -197,7 +197,7 @@ export default {
   .hero__acoes { justify-content: center; }
   .hero__stats { margin: 0 auto; }
   .hero__imagem { margin: 0 auto; }
-  .hero__mec { right: 0; top: 10px; }
+  .hero__mec { right: 0; top: 100px; }
   .hero__deco--azul { opacity: 0.3; }
 }
 </style>
